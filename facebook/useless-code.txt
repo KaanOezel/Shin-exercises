@@ -1,0 +1,30 @@
+//  if(username === database[0].username && password === database[0].password){
+//     console.log("Susanne user is logged in");
+//     console.log(newsfeed);
+//  } else if(username === database[1].username && password === database[1].password){
+//     console.log("Mark user is logged in");
+//     console.log(newsfeed);
+//  }else{
+//      alert("Your details login are not correct");
+//  }
+
+
+
+//  signIn("susanne","123");
+
+
+
+// console.log("inside loop feed");
+            // document.write(newsfeed[i]+ '<br>');
+            // let obj = newsfeed[i];
+            // Object.values(obj).forEach(function(news){
+            //     document.write(news+ "<br>");
+            // });
+
+
+//  function showFeed(){
+//    for(let i=0; i<newsfeed.length;i++){
+//        document.write(newsfeed[i].author + '<br>' + newsfeed[i].title +'<br>'+ newsfeed[i].summary +'<br>' );
+//    }
+//  }
+//  showFeed();

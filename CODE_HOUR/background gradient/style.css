@@ -1,0 +1,32 @@
+body {
+    background: rgba(0,0,0)linear-gradient(to right, rgb(74, 255, 74), rgb(255, 0, 0))repeat scroll 0% 0%; 
+    font: Arial, Helvetica, sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+}
+​
+h1 {
+    font: 600 3em Arial, Helvetica, sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+​
+h3 {
+	font: 900 1em Arial, Helvetica, sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: .5em;
+    text-transform: uppercase;
+}
+
+p{
+    color: #fff;
+    text-shadow: 1px 1px 2px #111;
+}
