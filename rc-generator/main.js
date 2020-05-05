@@ -8,10 +8,10 @@ var randomButton = document.getElementById("rc");
 let temp = "background: linear-gradient(to right, #000062, #d9d900);";
 
 // //My Method
-// let hex1 = temp.substr(38,7);
-// let hex2 = temp.substr(47,7)
-// color1.value = hex1;
-// color2.value = hex2;
+let hex1 = temp.substr(38,7);
+let hex2 = temp.substr(47,7)
+color1.value = hex1;
+color2.value = hex2;
 
 // //Susanne's Method
 // let hex1 = temp.split("#")[1];
